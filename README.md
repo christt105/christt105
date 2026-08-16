@@ -12,7 +12,7 @@
 
 ## Hi, I'm Christian 👋
 
-Software developer, mainly C#/.NET, with Godot for game dev on the side, and a solid C++ background from way back. I'm a tech enthusiast at heart, I run my own home server for the tools I build, and I like learning and teaching just as much. Most of what I build, I build open source.
+Software developer, mainly C#/.NET, with Godot for game dev on the side, and a solid C++ background from way back. I'm a tech enthusiast at heart, I run my own home server for the tools I build, and I like learning and teaching just as much. Most of what I build is open-source.
 
 ### Stack
 
