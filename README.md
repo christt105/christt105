@@ -1,21 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**christt105/christt105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/christt105/PokemonEmeraldIntroVideo/refs/heads/main/out/project.gif" width="100%" alt="header"/>
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://christt105.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianmartinezdelarosa/)
+[![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://christt105.itch.io/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/christt105)
+[![Mail](https://img.shields.io/badge/Mail-D44638?style=flat&logo=gmail&logoColor=white)](mailto:christian.martinez.de.la.rosa.99@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-<!--
-HEADER
--->
-![Header Pokemon Emerald Intro Edited](https://raw.githubusercontent.com/christt105/PokemonEmeraldIntroVideo/refs/heads/main/out/project.gif)
+## Hi, I'm Christian 👋
+
+Software developer, mainly C#/.NET, with Godot for game dev on the side, and a solid C++ background from way back. I'm a tech enthusiast at heart, I run my own home server for the tools I build, and I like learning and teaching just as much. Most of what I build, I build open source.
+
+### Stack
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,godot,unity,py,ts,postgres,docker,git)
+
+</div>
