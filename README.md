@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+HEADER
+-->
+![Header Pokemon Emerald Intro Edited](https://raw.githubusercontent.com/christt105/PokemonEmeraldIntroVideo/refs/heads/main/out/project.gif)
